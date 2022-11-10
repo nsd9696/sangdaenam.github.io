@@ -421,13 +421,13 @@ figure figcaption p {
 #contact-section .contact-form {
   margin-top: 42px;
 }
-#contact-section .contact-form .btn-send {
+#contact-section .contact-form . {
   margin-top: 35px;
   color: #fff;
   outline: none;
   background: #02bdd5;
 }
-#contact-section .contact-form .btn-send:hover {
+#contact-section .contact-form .:hover {
   border: 1px solid #02bdd5;
 }
 #contact-section input {
@@ -1038,7 +1038,7 @@ article {
   box-shadow: none;
   border-radius: 0;
 }
-.single-post .post-comment .btn-send {
+.single-post .post-comment . {
   background: #02bdd5;
   color: #fff;
   border-radius: 0;
